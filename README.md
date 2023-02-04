@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on my CS degree from the [University of Michigan](https://www.engin.umich.edu)!
 - 🌱 I'm currently learning everything 😀
 - 👯 I'm looking forward to working towards the common good
-- 🥅 2022 Goals: Learn more CS skills and start a new project
+- 🥅 2023 Goals: Learn more CS skills and start a new project
 - 🛫 Fun fact: I love to plane spot and play the violin!
 
 ### Connect with me:
