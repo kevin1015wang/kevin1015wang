@@ -1,4 +1,4 @@
-> Those who seeks the top, they sit up the nights. Those who seek the top with no effort, is in search of impossible.
+> Those who seek the top, they sit up the nights. Those who seek the top with no effort, is in search of impossible.
 > &mdash; *Imam Al-Shafei*
 ---
 
@@ -8,12 +8,12 @@
 - 🔭 I'm currently working on my CS degree from the [University of Michigan](https://www.engin.umich.edu)!
 - 🌱 I'm currently learning everything 😀
 - 👯 I'm looking forward to working towards the common good
-- 🥅 2023 Goals: Learn more CS skills and start a new project
+- 🥅 2024 Goals: Learn more CS skills and continue meeting new people
 - 🛫 Fun fact: I love to plane spot! Ask me about commercial aviation!
 
 ### Connect with me:
 
-[<img align="left" alt="Kevin | Website" width="22px" src="https://images.vexels.com/media/users/3/205387/isolated/preview/9e5a4a16e78a187fc3e47fc6e2c5f03a-internet-website-icon-stroke.png" />](https://kevin1015wang.github.io/)
+[<img align="left" alt="Kevin | Website" width="22px" src="https://images.vexels.com/media/users/3/205387/isolated/preview/9e5a4a16e78a187fc3e47fc6e2c5f03a-internet-website-icon-stroke.png" />](https://kevindw.dev/)
 [<img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kevin-wang-40210314a/)
 
 <br />
