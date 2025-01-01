@@ -4,11 +4,11 @@
 
 ### Hi there, I'm Kevin 👋 ###
 
-## I'm a student, Engineer in Training, Developer, and Aviation Enthuiast!
+## I'm a student, Developer, Runner, and Aviation Enthuiast!
 - 🔭 I'm currently working on my CS degree from the [University of Michigan](https://www.engin.umich.edu)!
 - 🌱 I'm currently learning everything 😀
 - 👯 I'm looking forward to working towards the common good
-- 🥅 2024 Goals: Learn more CS skills and continue meeting new people
+- 🥅 2025 Goals: Learn more CS skills and continue meeting new people
 - 🛫 Fun fact: I love to plane spot! Ask me about commercial aviation!
 
 ### Connect with me:
