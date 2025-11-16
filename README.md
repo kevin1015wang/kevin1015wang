@@ -122,6 +122,25 @@ _Note:_ MLH internship entries include epoch timestamps; tell me if you want exa
 
 ---
 
+---
+
+## Next Hackathon — TreeHacks
+
+I'm attending TreeHacks (Stanford's hackathon). Pulled from https://treehacks.com/:
+
+- **Event:** TreeHacks
+- **Dates:** FEB 13-15, 2026
+- **Duration:** 36 hours
+- **Location:** Stanford University (Hoover Tower / Stanford campus), Palo Alto, CA
+- **What to expect:** meals, travel & lodging support, tracks like Healthcare, Fintech & Web3, Sustainability, Autonomy, Edge AI, Education
+- **Official site:** https://treehacks.com/
+- **Year site / event page:** https://2025.treehacks.com/ (useful for prior-year details and media)
+- **Volunteer / judge / mentor form:** https://forms.gle/nHRMCTZtSbLiA7kv5
+
+If you'd like I can add a short checklist here (travel, laptop, team, pitch), or embed a TreeHacks badge.
+
+---
+
 ## All repositories
 
 The MCP search returned 85 repositories across this account (including private repos visible to you). View them on GitHub:
