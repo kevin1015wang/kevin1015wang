@@ -1,24 +1,32 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+Template:
+[![Followers](https://img.shields.io/github/followers/kevin1015wang?label=Followers&style=flat-square)](https://github.com/kevin1015wang?tab=followers)
+[![Website](https://img.shields.io/badge/Website-kevindw.dev-1f6feb?style=flat-square)](https://kevindw.dev)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+Hi, I'm Kevin Wang. I'm a Software Engineer at Uber Technologies Inc. and a University of Michigan alum.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+I build practical products and experiments across web apps, automation tooling, and ML-adjacent projects, with a strong focus on JavaScript/TypeScript and Python.
+
+- Location: San Francisco, CA
+- Company: Uber Technologies Inc.
+- Bio: Uber SWE, UMich Alum
+- MLH Member Since: 2023
+
+## MLH Snapshot
+- Education: University of Michigan, Computer Science (2021-2025)
+- Experience: Software Engineer at Uber (2025-Present)
+- Previous Internships: Uber, Whirlpool, LECO
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- [Canvas-Across-the-Bay](https://github.com/kevin1015wang/Canvas-Across-the-Bay) - Site that showcases the art in public transit stations across the Bay Area. (JavaScript)
+- [echoRep](https://github.com/kevin1015wang/echoRep) - TypeScript-based app project for real-time interaction workflows. (TypeScript)
+- [SentimentAnalyzers](https://github.com/kevin1015wang/SentimentAnalyzers) - Python experiments for sentiment analysis workflows. (Python)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- Languages: TypeScript, JavaScript, Python, HTML/CSS
+- Focus: Product engineering, developer tooling, applied ML
+- Interests: Hackathons, practical AI applications, community-facing projects
+
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
