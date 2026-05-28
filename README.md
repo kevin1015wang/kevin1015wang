@@ -1,4 +1,4 @@
-[![GitHub followers](https://img.shields.io/github/followers/kevin1015wang?label=Followers&style=flat-square)](https://github.com/kevin1015wang)
+[![GitHub followers](https://img.shields.io/github/followers/kevin1015wang?label=Followers&style=flat-square&logo=github)](https://github.com/kevin1015wang)
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-36-blue?style=flat-square)](https://github.com/kevin1015wang?tab=repositories)
 
 ## About
