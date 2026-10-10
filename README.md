@@ -1,24 +1,30 @@
-<!-- Template:
+Template:
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Kevin. I'm a Coach at MLH. I work on web, mobile, and interactive product experiences with a focus on JavaScript/TypeScript, Dart, and systems-level programming.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: San Francisco, CA
+- 🎓 Education: B.S. in Computer Science, University of Michigan
+- 💼 Experience: Software Engineer at Uber; previously interned at Whirlpool and LECO
+- 📅 Hacking Since: 2018
+
+## Experience
+- 🚀 Software Engineer at Uber
+- 🧪 Software Engineer Intern at Whirlpool
+- 🔧 Software Engineer Intern at LECO
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 Canvas-Across-the-Bay — Site that showcases the art in public transit stations across the Bay Area. (JavaScript) — github.com/kevin1015wang/Canvas-Across-the-Bay
+- 🛠️ HowMich — Mobile app designed to help University of Michigan students navigate MDining. (Dart) — github.com/kevin1015wang/HowMich
+- 🤖 React-Tic-Tac-Toe — A small React-based tic-tac-toe app built as a learning project. (JavaScript) — github.com/kevin1015wang/React-Tic-Tac-Toe
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: JavaScript, TypeScript, Dart, C/C++, Python
+- 🔭 Focus: Full-stack product development, mobile apps, interactive web experiences, civic and campus tech
+- ❤️ Interests: Hackathons, public transit, community-driven tools, creative coding, and human-centered design
+
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
